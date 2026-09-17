@@ -1,0 +1,7 @@
+[project]
+name = "dice-game"
+version = "1.0.0"
+description = "A simple dice rolling game."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
